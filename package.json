@@ -1,0 +1,26 @@
+{
+  "name": "nodebb-plugin-additional-user-fields",
+  "version": "1.0.0",
+  "description": "NodeBB plugin for adding additional fields to users API.",
+  "main": "library.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andres-liiver/nodebb-plugin-additional-user-fields.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "additional",
+    "user",
+    "fields"
+  ],
+  "author": "Andres Liiver",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields/issues"
+  },
+  "homepage": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields#readme"
+}

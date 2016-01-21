@@ -1,0 +1,10 @@
+{
+  "id": "nodebb-plugin-additional-user-fields",
+  "name": "NodeBB Plugin Additional User Fields",
+  "description": "NodeBB plugin for adding additional fields to users API.",
+  "url": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields",
+  "library": "./library.js",
+  "hooks": [
+    { "hook": "filter:users.addFields", "method": "addFields" }
+  ]
+}
