@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields/issues"
   },
-  "homepage": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields#readme"
+  "homepage": "https://github.com/andres-liiver/nodebb-plugin-additional-user-fields#readme",
+  "nbbpm": {
+    "compatibility": "^0.8.0"
+  }
 }

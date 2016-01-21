@@ -1,12 +1,13 @@
 (function(module) {
   'use strict';
 
-  const fields = [''];
+  const fields = ['fullname'];
 
   var Plugin = {};
 
   Plugin.addFields = function(object, callback) {
-    console.log(object);
+    object.fields.push.apply(object.fields, fields);
+    callback(null, object);
   };
 
   module.exports = Plugin;
