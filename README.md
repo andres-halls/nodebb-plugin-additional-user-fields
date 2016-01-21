@@ -5,6 +5,6 @@ NodeBB plugin for adding additional fields to users API.
 
 Install the plugin with NPM.
 
-  ```
-  npm install github:andres-liiver/nodebb-plugin-additional-user-fields
-  ```
+```
+npm install github:andres-liiver/nodebb-plugin-additional-user-fields
+```
